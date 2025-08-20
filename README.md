@@ -1,6 +1,4 @@
-Got it ✅ — here’s a polished **README.md** draft for your project, written in a clear journalistic + analytical style, as if you’re presenting it to subscribers or open-source collaborators:
 
----
 
 # ⚽ Investigating Goal Scoring in Men's vs. Women's FIFA World Cups
 
@@ -106,4 +104,3 @@ By grounding observations in data rather than gut feeling, we contribute to a mo
 
 ---
 
-Would you like me to also **include a Results & Conclusion section** in the README (with placeholders for you to fill in after running the test), so it looks complete when you publish it?
